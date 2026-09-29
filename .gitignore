@@ -37,3 +37,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### 本地持久化快照与测试数据 ###
+data/
+target/test-data/
